@@ -1,0 +1,8 @@
+dodaæ program gdzie wpiszê miasto i poka¿e mi
+
+
+- obrazek / current/condition/icon
+- opis pogody/ current/condition/text
+- temp /current/temp_c
+
+- imageView - komponent do obrazka
